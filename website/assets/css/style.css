@@ -4,3 +4,23 @@ body{
 #contact1{
     background: rgb(224, 223, 223);
 }
+.tagline{
+    background-image: url("../img/bg.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 1100px;
+}
+.text{
+    margin-top: 200px;
+    text-align: center;
+}
+.text-1{
+    font-size: 110px;
+}
+.text-2{
+    font-size:90px;
+}
+.card{
+    border:none;
+    background: #BDBDBD;
+}
